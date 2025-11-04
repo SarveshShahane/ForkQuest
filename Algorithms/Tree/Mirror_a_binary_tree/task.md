@@ -1,0 +1,1 @@
+Implement a function that mirrors a binary tree. The implementation of a binary tree is already given, update the mirror function.

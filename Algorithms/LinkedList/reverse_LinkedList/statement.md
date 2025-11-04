@@ -1,0 +1,1 @@
+Implement a function called reverse that takes a linked list and reverses it.
